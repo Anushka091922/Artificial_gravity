@@ -1,2 +1,2 @@
 # Artificial_gravity
-## Idea:
+## Idea of the Project:
