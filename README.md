@@ -3,6 +3,10 @@
 
 In the realm of space exploration, the absence of gravity poses significant challenges for the well-being of astronauts and the execution of various experiments. To address this critical issue, the proposition of developing an artificial gravity simulation within the International Space Station (ISS) or other spacecraft has gained traction. The primary objective of this project is to create a comprehensive simulation environment capable of replicating both microgravity and artificial gravity scenarios, facilitating crucial scientific research and experimentation that necessitates gravity-like conditions.
 
+## Simulation Environment Development:
+
+The initial phase of the project involves the meticulous development of a sophisticated simulation environment that can accurately emulate the microgravity conditions prevalent in space. Drawing from principles of fluid dynamics, celestial mechanics, and advanced physics, the simulation will recreate the dynamics of freefall and weightlessness experienced by objects in space. By integrating state-of-the-art computational models and high-fidelity visualizations, the simulation will enable scientists to conduct experiments that are traditionally feasible only in zero gravity environments, thereby broadening the scope of space-based research.
+
 
 
 ## References:
