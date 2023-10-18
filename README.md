@@ -7,6 +7,10 @@ In the realm of space exploration, the absence of gravity poses significant chal
 
 The initial phase of the project involves the meticulous development of a sophisticated simulation environment that can accurately emulate the microgravity conditions prevalent in space. Drawing from principles of fluid dynamics, celestial mechanics, and advanced physics, the simulation will recreate the dynamics of freefall and weightlessness experienced by objects in space. By integrating state-of-the-art computational models and high-fidelity visualizations, the simulation will enable scientists to conduct experiments that are traditionally feasible only in zero gravity environments, thereby broadening the scope of space-based research.
 
+## Artificial Gravity Implementation:
+
+Concurrently, the project will focus on the implementation of artificial gravity within the confines of the ISS. This undertaking demands an interdisciplinary approach, incorporating elements of mechanical engineering, structural design, and rotational dynamics. By conceptualizing and developing a viable mechanism, such as a rotating habitat or centrifugal force generators, the project seeks to simulate an environment that mimics the effects of terrestrial gravity. Through precise calibration and continuous monitoring, the artificial gravity simulation will provide astronauts with a stable and familiar gravitational field, conducive to long-term habitation and enhanced physiological well-being.
+
 
 
 ## References:
