@@ -1,5 +1,5 @@
 # Artificial gravity and Microgravity
-## Introduction:
+## Introduction to the idea:
 
 In the realm of space exploration, the absence of gravity poses significant challenges for the well-being of astronauts and the execution of various experiments. To address this critical issue, the proposition of developing an artificial gravity simulation within the International Space Station (ISS) or other spacecraft has gained traction. The primary objective of this project is to create a comprehensive simulation environment capable of replicating both microgravity and artificial gravity scenarios, facilitating crucial scientific research and experimentation that necessitates gravity-like conditions.
 
